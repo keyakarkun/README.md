@@ -20,8 +20,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=keyakarkun&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=keyakarkun&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=keyakarkun&icon=0&color=0)](https://visitcount.itsvg.in)</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @keyakarkun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keyakarkun)](https://holopin.io/@keyakarkun)
-</p>
+
