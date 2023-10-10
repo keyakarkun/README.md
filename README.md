@@ -5,7 +5,7 @@
 <br>
 </p>
 <p align="center">
-<h1 align="center">💫My name is Keya Karkun</h1>
+<h1 align="center">💫I am Keya Karkun</h1>
 </p>
 
 <p align="center">
