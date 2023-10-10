@@ -1,9 +1,9 @@
-<img align="left" src="Flower.gif"
+<p><img align="left" src="Flower.gif"
     width="20%" style="display:inline;">
 <img align="right" src="Flower.gif"
     width="20.5%" style="display:inline;">
 <br>
-
+</p>
 <p align="center">
 <h1 align="center">💫My name is Keya Karkun</h1>
 </p>
