@@ -1,6 +1,6 @@
-<img align="left" src=""
+<img align="left" src="Flower.gif"
     width="20%" style="display:inline;">
-<img align="right" src=""
+<img align="right" src="Flower.gif"
     width="20.5%" style="display:inline;">
 <br>
 
