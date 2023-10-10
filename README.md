@@ -1,6 +1,6 @@
 
 
-# <p align="center">
+<p align="center">
 <h1 align="center">💫My name is Keya Karkun</h1>
 </p>
 
