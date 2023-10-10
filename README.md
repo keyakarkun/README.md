@@ -1,5 +1,5 @@
 <img align="left" src="Flower.gif"
-    width="20%" style="display:inline" bgcolor="white">
+    width="20%" style="display:inline">
 <img align="right" src="Flower.gif"
     width="20.5%" style="display:inline;">
 <br>
